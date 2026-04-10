@@ -6,6 +6,6 @@
     { "id": 1, "params": "channel=4&subtype=1" },
     { "id": 2, "params": "channel=7&subtype=1" },
     { "id": 3, "params": "channel=11&subtype=1" },
-    { "id": 4, "params": "channel=7&subtype=1" }
+    { "id": 4, "params": "channel=10&subtype=1" }
   ]
 }
