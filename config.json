@@ -9,7 +9,7 @@
     { "id": 4, "params": "channel=10&subtype=1" }
   ],
   "network": {
-    "lan": true,
+    "lan": false,
     "lan_url": "192.168.1.1"
   }
 }
