@@ -1,6 +1,6 @@
 {
   "settings": {
-    "force_sd": true
+    "force_sd": false
   },
   "cameras": [
     { "id": 1, "params": "channel=7&subtype=1" },
