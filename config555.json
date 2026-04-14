@@ -1,6 +1,6 @@
 {
   "settings": {
-    "force_sd": true,
+    
     "hd":true,
     "fullscreen": 1
   },
@@ -11,11 +11,11 @@
     { "id": 4, "params": "channel=10&subtype=1" }
   ],
   "network": {
-    "lan": true,
-    "lan_url": "192.168.1.108",
+    
+    "lan_url": "192.168.1.150",
     "port":"554",
-    "buffer": 5,
-    "pw" : "ishak123"
+    "buffer": 2,
+    "pw" : "greta2022"
   }
 }
 
