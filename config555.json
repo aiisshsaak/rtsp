@@ -14,7 +14,7 @@
     "lan": true,
     "lan_url": "192.168.1.108",
     "port":"554",
-    "buffer": 2,
+    "buffer": 5,
     "pw" : "ishak123"
   }
 }
