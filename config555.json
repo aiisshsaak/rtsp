@@ -13,7 +13,7 @@
   "network": {
     
     "lan_url": "boucherie-evin.pro.dns-orange.fr",
-    "port":"81",
+    "port":"82",
     "buffer": 4,
     "pw" : "greta2022"
   }
