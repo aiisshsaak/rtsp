@@ -12,9 +12,11 @@
   ],
   "network": {
     "lan": true,
-    "lan_url": "boucherie-evin.pro.dns-orange.fr",
-    "port":"81",
+    "lan_url": "192.168.1.108",
+    "port":"554",
     "buffer": 2,
-    "pw" : "greta2022"
+    "pw" : "ishak123"
   }
 }
+
+
