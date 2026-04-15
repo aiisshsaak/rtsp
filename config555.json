@@ -1,7 +1,7 @@
 {
   "settings": {
     
-    "hd":false,
+    "hd":true,
     "fullscreen": 1
   },
   "cameras": [
