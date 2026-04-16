@@ -13,7 +13,7 @@
   ],
   "network": {
     
-    "lan_url": "10.0.2.2",
+    "lan_url": "192.168.1.59",
     "port": "8554",
     "buffer": 2,
     "pw" : "ishak123"
