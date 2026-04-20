@@ -14,7 +14,7 @@
 
     "lan_url":"192.168.0.108",
     "port":"554",
-    "buffer": 4,
+    "buffer": 0,
     "pw" : "mahfoud10"
   }
 }
