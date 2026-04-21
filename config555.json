@@ -14,7 +14,7 @@
     
     "lan_url":"192.168.1.150",
     "port":"554",
-    "buffer": 4,
+    "buffer": 1,
     "pw" : "greta2022"
   }
 }
