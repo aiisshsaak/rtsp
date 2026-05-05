@@ -13,7 +13,7 @@
   "network": {
     
     "lan_url":"boucherie-evin.pro.dns-orange.fr",
-    "port":"84",
+    "port":"83",
     "buffer": 1,
     "pw" : "59161010a"
   }
